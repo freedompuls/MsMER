@@ -43,5 +43,6 @@ trainer = Trainer()
 trainer.fit(model, datamodule=dm)
 
 
-![image](https://github.com/freedompuls/MsMER/assets/65065301/beb79651-95e9-4d42-86ca-b309b4a801ad)
+![Modle overviwe](MsMER/image.png)
+
 
