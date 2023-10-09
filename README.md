@@ -28,6 +28,14 @@ gpus: 1
 
 ```
 
+data CROHME https://www.cs.rit.edu/~crohme2019/task.html
+```
+our aug data  36260 images
+链接：https://pan.baidu.com/s/1ZDSN0skrSmcdqBxebpAX7w 
+提取码：x9ng
+
+```
+
 ![image](https://github.com/freedompuls/MsMER/blob/main/image.png)
 
 
