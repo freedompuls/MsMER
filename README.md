@@ -13,7 +13,7 @@ conda activate msmer
 conda install --yes -c pytorch pytorch=1.7.0 torchvision cudatoolkit=<your-cuda-version>
 pip install -e .   
  ```   
- Next, navigate to any file and run it. It may take ''20-25" hours to coverage on **1** 3080Ti gpus.
+ Next, navigate to any file and run it. It may take ''20-25" hours to coverage on **1** 3080Ti gpu.
  ```bash
 # module folder
 cd MsMER
