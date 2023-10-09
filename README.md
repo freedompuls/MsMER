@@ -43,6 +43,6 @@ trainer = Trainer()
 trainer.fit(model, datamodule=dm)
 
 
-![image]([https://github.com/freedompuls/MsMER/blob/main/image.png](https://github.com/freedompuls/MsMER/blob/main/image.png)https://github.com/freedompuls/MsMER/blob/main/image.png)
+![image](https://github.com/freedompuls/MsMER/blob/main/image.png)
 
 
