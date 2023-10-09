@@ -13,7 +13,7 @@ conda activate bttr
 conda install --yes -c pytorch pytorch=1.7.0 torchvision cudatoolkit=<your-cuda-version>
 pip install -e .   
  ```   
- Next, navigate to any file and run it. It may take **6~7** hours to coverage on **4** gpus using ddp.
+ Next, navigate to any file and run it. It may take 20 hours to coverage on **1** 3080Ti gpus.
  ```bash
 # module folder
 cd MsMER
@@ -43,6 +43,6 @@ trainer = Trainer()
 trainer.fit(model, datamodule=dm)
 
 
-![Modle overviwe]([MsMER/image.pn](https://github.com/freedompuls/MsMER/blob/main/image.png)https://github.com/freedompuls/MsMER/blob/main/image.pngg)
+![image]([https://github.com/freedompuls/MsMER/blob/main/image.png](https://github.com/freedompuls/MsMER/blob/main/image.png)https://github.com/freedompuls/MsMER/blob/main/image.png)
 
 
