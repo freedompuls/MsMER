@@ -21,10 +21,11 @@ cd MsMER
 python train.py --config config.yaml  
 ```
 
-For single gpu user, you may change the `config.yaml` file to
+For single gpu user, you may change the `config.yaml` file to，
 ```yaml
 gpus: 1
-
+#  accelerator: ddp
+```
 
 ![image](https://github.com/freedompuls/MsMER/blob/main/image.png)
 
