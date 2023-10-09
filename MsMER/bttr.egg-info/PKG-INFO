@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: bttr
-Version: 0.0.1
-Summary: Handwritten Mathematical Expression Recognition with Bidirectionally Trained Transformer
-Home-page: https://github.com/Green-Wood/BTTR
-Author: Wenqi Zhao
-Author-email: 1027572886a@gmail.com
-License-File: LICENSE
