@@ -38,4 +38,6 @@ our aug data  36260 images
 
 ![image](https://github.com/freedompuls/MsMER/blob/main/image.png)
 
-![image](https://github.com/freedompuls/MsMER/blob/main/image.png)
+![image](https://github.com/freedompuls/MsMER/blob/main/image1.png)
+
+![image](https://github.com/freedompuls/MsMER/blob/main/image2.png)
